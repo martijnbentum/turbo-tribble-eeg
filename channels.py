@@ -1,3 +1,7 @@
+'''classes to represent the channels and montage of the EEG experiment.
+DOI: 10.1016/j.bandl.2014.10.006
+'''
+
 import numpy as np
 
 channels = {'50':'Fp1','36':'Fp2','49':'F7,AF7','37':'F8,AF8','48':'FT7','38':'FT8'}
